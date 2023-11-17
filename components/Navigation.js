@@ -29,7 +29,7 @@ export default function Navigation() {
           <IconNavBookmark />
         </NavigationIcon> */}
       </div>
-      <a href="https://github.com/Sayan-Maity" target="_blank" rel="noreferrer">
+      <a href="https://github.com/romeoscript" target="_blank" rel="noreferrer">
       <div className='flex items-center justify-center rounded-full bg-cyan-200 p-px'>
         <Image
           className='rounded-full'
