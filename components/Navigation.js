@@ -30,7 +30,7 @@ export default function Navigation() {
         </NavigationIcon> */}
       </div>
       <a href="https://github.com/romeoscript" target="_blank" rel="noreferrer">
-      <div className='flex items-center justify-center rounded-full bg-cyan-200 p-px'>
+      <div className='flex items-center justify-center rounded-full bg-cyan-200 w-[25px] rounded-full h-[25px] p-px'>
         R
         {/* <Image
           className='rounded-full'
