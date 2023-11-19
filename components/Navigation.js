@@ -31,14 +31,15 @@ export default function Navigation() {
       </div>
       <a href="https://github.com/romeoscript" target="_blank" rel="noreferrer">
       <div className='flex items-center justify-center rounded-full bg-cyan-200 p-px'>
-        <Image
+        R
+        {/* <Image
           className='rounded-full'
           src={ProfilePic}
           alt='user avatar'
           height={25}
           width={25}
           unoptimized
-        />
+        /> */}
       </div>
       </a>
     </nav>
